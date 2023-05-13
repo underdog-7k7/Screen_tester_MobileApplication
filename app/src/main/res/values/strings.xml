@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="scroll_down_pls">Please Scroll Down and align the top of your screen with the red line</string>
+    <string name="intro_Text">Hello! Welcome to this basic application that will help you test parts of your screen for damage and non-functionality! This application is a basic tester with 16 grid spaces to cover your entire screen</string>
+    <string name="myfont"></string>
+    <string name="scroll_down">Scroll down and Allign your screen with the white line </string>
+</resources>
